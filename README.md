@@ -1,6 +1,11 @@
 # AnalyticalBalance_EmbeddedTask
 
-## Task for LabForward
+## Table of contents
+* [Introduction](#introduction)
+* [Device](#device)
+* [Driver](#driver)
+
+## Introduction
 
 As an example, the analytical balnace from https://www.mt.com/us/en/home/products/Laboratory_Weighing_Solutions/Analytical/Excellence.html is considered. A script for the driver and device is written in nodejs. 
 

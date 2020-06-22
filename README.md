@@ -16,9 +16,9 @@ args:
    <Set current Unit> Current weight unit. (lb, g, etc) default is g.
 
 Example commands:
->node device.js 0.016 52 0.005 7 automatic open 4 2 lb
->node device.js 0.02 20 0.1 12 automatic close 3 1
->node device.js 1 35 0.01 22 manual close 4 3 g
+>node device.js 0.016 52 0.005 7 automatic open 4 2 lb  
+>node device.js 0.02 20 0.1 12 automatic close 3 1  
+>node device.js 1 35 0.01 22 manual close 4 3 g  
 
 
 
@@ -30,7 +30,7 @@ args:
    <SU\n> Send stable weight value in actually displayed unit. (Note: make sure to add newline character at the end).
 
 Example commands:
->node driver.js 'S
->'
->node driver.js 'SU
->'
+>node driver.js 'S  
+>'  
+>node driver.js 'SU  
+>'  

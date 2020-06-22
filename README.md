@@ -15,11 +15,11 @@ args: \
    \<Settling TIme\> Time taken by the device to arrive at a stable value. (seconds)\
    \<Set current Unit\> Current weight unit. (lb, g, etc) default is g.\
 \
-Example commands:\
+Example commands:
 >node device.js 0.016 52 0.005 7 automatic open 4 2 lb\
 >node device.js 0.02 20 0.1 12 automatic close 3 1\
 >node device.js 1 35 0.01 22 manual close 4 3 g\
-\
+
 \
 driver.js Usage:\
 \
@@ -28,8 +28,8 @@ args:\
    \<S\\n\> Send stable weight value. (Note: make sure to add newline character at the end).\
    \<SU\\n\> Send stable weight value in actually displayed unit. (Note: make sure to add newline character at the end).\
 \
-Example commands:\
+Example commands:
 >node driver.js 'S\
 >'\
 >node driver.js 'SU\
->'\
+>'

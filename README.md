@@ -7,7 +7,7 @@
 
 ## Introduction
 
-As an example, the analytical balnace from https://www.mt.com/us/en/home/products/Laboratory_Weighing_Solutions/Analytical/Excellence.html is considered. A script for the driver and device is written in nodejs. 
+As an example, the analytical balance from https://www.mt.com/us/en/home/products/Laboratory_Weighing_Solutions/Analytical/Excellence.html is considered. A script for the driver and device is written in nodejs. 
 
 ### Device
 

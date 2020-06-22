@@ -18,7 +18,7 @@ args: \
 Example commands:
 >node device.js 0.016 52 0.005 7 automatic open 4 2 lb\
 >node device.js 0.02 20 0.1 12 automatic close 3 1\
->node device.js 1 35 0.01 22 manual close 4 3 g\
+>node device.js 1 35 0.01 22 manual close 4 3 g
 
 \
 driver.js Usage:\

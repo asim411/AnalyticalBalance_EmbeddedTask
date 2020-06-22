@@ -11,7 +11,7 @@ As an example, the analytical balance from [Mettler_Tolledo_Analytical Balance](
 
 ### Device
 
-Device is the analytical balance and the script for device is used to configure the device by passing the configuration parameters like min and max weighing capacity, accuracy and precision, settling time and others as mentioned in the usage section. The configuration/initialization parameters for the device are taken from the ![Analytical_Balance_Datasheet](https://github.com/asim411/AnalyticalBalance_EmbeddedTask/blob/master/MT_AnalyticalBalance_Pdf/DataSheet_MT_AnalyticalBalance.pdf). 
+Device is the analytical balance and the script for device is used to configure the device by passing the configuration parameters like min and max weighing capacity, accuracy and precision, settling time and others as mentioned in the usage section. The configuration/initialization parameters for the device are taken from the [Analytical_Balance_Datasheet](https://github.com/asim411/AnalyticalBalance_EmbeddedTask/blob/master/MT_AnalyticalBalance_Pdf/DataSheet_MT_AnalyticalBalance.pdf). 
 
 
 #### device.js Usage:
@@ -36,7 +36,7 @@ Example commands:
 
 ### Driver
 
-Driver is communicating with device. Commands mentioned in the task document are programmed in driver script. To get a better understanding of the device interface, commands and their usage mentioned in ![Analytical_Balance_Interface Commands](https://github.com/asim411/AnalyticalBalance_EmbeddedTask/blob/master/MT_AnalyticalBalance_Pdf/InterfaceCommands_MT_AnalyticalBalance.pdf) also helped a lot. The usage of the script is as below:
+Driver is communicating with device. Commands mentioned in the task document are programmed in driver script. To get a better understanding of the device interface, commands and their usage mentioned in [Analytical_Balance_Interface Commands](https://github.com/asim411/AnalyticalBalance_EmbeddedTask/blob/master/MT_AnalyticalBalance_Pdf/InterfaceCommands_MT_AnalyticalBalance.pdf) also helped a lot. The usage of the script is as below:
 
 #### driver.js Usage:
 \

@@ -7,7 +7,9 @@ As an example, the analytical balnace from https://www.mt.com/us/en/home/product
 ### Device
 
 Device is the analytical balance and the script for device is used to configure the device by passing the configuration parameters like min and max weighing capacity, accuracy and precision, settling time and others as mentioned in the usage section.
-device.js Usage:\
+
+
+#### device.js Usage:\
 \
 node device.js \<args\>\
 args: \
@@ -31,7 +33,7 @@ Example commands:
 Driver is communicating with device. Commands mentioned in the task document are programmed in driver script. The usage is as below:
 
 \
-driver.js Usage:\
+#### driver.js Usage:\
 \
 node driver.js \<args\>\
 args:\
